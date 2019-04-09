@@ -4,6 +4,18 @@ body {
   color: #0000FF;
 }
 
+h1 {
+  font-size: 2em; /* 32px */
+}
+
+h1 {
+  line-height: 1.2;
+}
+    
+p {
+  font-size: 100%; /* 16px */
+}
+
 nav {
   background-color: rgba(0,0,0,.5);
   float: left;

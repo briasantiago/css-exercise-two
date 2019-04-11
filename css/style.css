@@ -26,17 +26,17 @@ nav {
 .logo {
   margin: 20px;
   width: 100px;
-  a:active { color:#0070BD; } /* selected */
+  
 }
 
 .large-pic {
   width: 100%;
-  a:active { color:#0070BD; } /* selected */
+  
 }
 
 .medium-pic {
   width: 70%;
-  a:active { color:#0070BD; } /* selected */
+  
 }
 
 .left, .right {

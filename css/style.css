@@ -55,6 +55,10 @@ body {
   color: #000000;
 }
 
+figcaption {
+  font-size: 80%;
+}
+
 h1 {
   font-size: 2em; /* 32px */
   line-height: 1.2;
@@ -69,8 +73,14 @@ p {
   line-height: 1.5;
 }
 
-.location:hover {
-    background-color: #A0A0A0;
+a:hover {
+  color: #c9c9c9;
+  /* mouse over*/
+}
+
+a:link {
+  text-decoration: none;
+  color: #ffffff;
 }
 
 nav {
